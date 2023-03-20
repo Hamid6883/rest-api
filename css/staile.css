@@ -1,0 +1,22 @@
+.header{
+    text-align: center;
+    color: burlywood;
+}
+.countris{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-gap: 20px;
+   text-align: center;
+}
+
+.countri{
+    border: 2px solid goldenrod;
+    background-color: aqua;
+    padding: 20px;
+    border-radius: 
+    20pt;
+}
+
+.countris img{
+  width: 200px;
+}
